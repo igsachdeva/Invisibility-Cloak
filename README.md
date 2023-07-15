@@ -1,17 +1,23 @@
-# Harry-Potter-Cloak
-This is a beginner level computer vision project implemented using opencv with python as its language.</br>
-<h3>Concepts used :</h3></br>
-1.Image thresholding</br>
-2.Image masking</br>
-3.Space Conversion</br>
-4.Video input</br>
-<h5>System Requirements: Python 3 , OpenCV, Numpy installed.
 
-<h3>How to use this project</h3>
-1.Keep the PC stable and ensure that there in nothing initially infront of camera.</br>
-2.Run the python script given above.</br>
-3.Two windows will pop up: The first one giving the Hue, Saturation, Value of colour of sheet, the second displaying output.</br>
-4.Adjust the HSV values for the color of sheet to be in range.</br>
-5.Enjoy the effect.
+Harry-Potter-Inspired Invisibility Cloak Project
+
+This project involves computer vision and is suitable for beginners. It is implemented using Python with the OpenCV library.
+
+Key Concepts Utilized:
+
+Image thresholding
+Image masking
+Color space conversion
+Video input
+System Requirements: Python 3, OpenCV, and Numpy should be installed on your system.
+
+Instructions for Project Usage:
+
+Ensure that your computer is stable and there are no objects obstructing the camera's view.
+Run the provided Python script.
+Two windows will appear: The first window will display the Hue, Saturation, and Value (HSV) values of the color of the sheet, while the second window will show the output.
+Adjust the HSV values to match the color range of the sheet you are using.
+Experience the captivating effect of the invisibility cloak.
+Please note that this project is inspired by Harry Potter's cloak of invisibility, but the implementation and code are original.
 
 
